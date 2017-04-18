@@ -95,6 +95,10 @@ $ ignite new MyNewAppName
 
 Want to dive into the Ignite 2 documentation? [Go here](./docs/README.md)
 
+## :arrow_forward: Plugins :electric_plug:
+
+Check out the list of [Plugins](./PLUGINS.md)
+
 ## :arrow_forward: Troubleshooting
 
 If you run into problems, first search the issues in this repository. If you don't find anything, you can either [file an issue](https://github.com/infinitered/ignite/issues) or come talk to our friendly developers in the Infinite Red Community Slack ([community.infinite.red](http://community.infinite.red)).
